@@ -1,0 +1,44 @@
+body {
+
+    position: relative;
+
+}
+
+
+
+fieldset {
+
+    border: 2px solid black;
+
+    display: inline-block;
+
+    padding: 20px;
+
+   
+}
+
+#invoerformulier{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+
+}
+
+#div2{
+
+    text-align: right;
+
+}
+
+
+#fname{
+    
+    float:right;
+
+}
+
+#lname{
+
+    float:right;
+}
+

@@ -3,8 +3,6 @@
 <head>
 
 </head>
-<body>
-    
 <?php
 
 echo $_POST["fname"] , "<br>"; 
@@ -18,6 +16,8 @@ echo $_POST["leeftijd"] , "<br>";
 echo $_POST["adres"] , "<br>"; 
 
 echo $_POST["woonplaats"] , "<br>"; 
+
+
 ?>
 
 </body>
