@@ -3,6 +3,8 @@
 <head>
 
 </head>
+<body>
+    
 <?php
 
 echo $_POST["fname"] , "<br>"; 
